@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Prakash Savaliya
+N:LastName;FirstName;;;
+ORG:Shree Publicity
+TITLE: Graphic Designer
+TEL;TYPE=CELL:+91 9376953000
+TEL;TYPE=WORK:+91 8469035909
+EMAIL;TYPE=shreepublicity@yahoo.com
+URL:https://yourusername.github.io/my-vcard
+ADR;TYPE=WORK:;;1333 Southpark street;Halifax;Nova Scotia;B3J2K9;India
+NOTE:Digital Business Card
+END:VCARD
